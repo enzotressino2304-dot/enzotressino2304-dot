@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a online course
+- 🌱 I’m currently learning frontend
+- 👯 I’m looking to collaborate on any work opportunities for experience
+- 📫 How to reach me: @enzo_tg2 on instagram
 
 <!--
 **enzotressino2304-dot/enzotressino2304-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
